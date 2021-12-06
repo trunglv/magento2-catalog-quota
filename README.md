@@ -2,7 +2,7 @@
 Manage purchased quantity quota for customer groups
 ## How to use:
 ### 1. Manage Purchase Quanity for Customer Groups
-Please go to Product Edit Form, you can see a new section name "Purchase Quantity Quota", where you can define a purchase quantity quote per a group.
+**Please go to Product Edit Form, you can see a new section name "Purchase Quantity Quota", where you can define a purchase quantity quote per a group.**
 
 ![image](https://user-images.githubusercontent.com/820411/144787625-5d8eeb62-9278-480f-8517-d742d1ce8fb6.png)
 
