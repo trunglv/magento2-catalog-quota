@@ -1,4 +1,4 @@
-# Magento 2 - Catalog Quota for Customer Groups
+# Magento 2 - Catalog Quota for Customer
 Manage purchased quantity quota for customer groups
 ## How to use:
 ### 1. Manage Purchase Quanity for Customer Groups
